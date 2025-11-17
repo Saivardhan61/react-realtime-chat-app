@@ -29,21 +29,13 @@ Overall, this Real-Time Chat Application demonstrates my ability to build a comp
 
 *OUTPUT*:
 
+<img width="655" height="565" alt="Image" src="https://github.com/user-attachments/assets/644f81a5-fcd1-47b3-a5d4-b6a3b9e20223" />
 
 
+<img width="849" height="686" alt="Image" src="https://github.com/user-attachments/assets/9b274007-1ed3-4864-81bd-fdf79a692bf7" />
 
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="700" height="236" alt="Image" src="https://github.com/user-attachments/assets/3f91e3b4-6e1b-4ed0-b99e-b963f3747fcb" />
 
 
 
